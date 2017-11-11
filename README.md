@@ -3,7 +3,7 @@ APRS TCP/IP beacon based on ESP8266
 
 Software by EA4GKQ
 
-PCB designed by EA7GIB
+PCB designed by EA7GIB (Gerber files located into /Hardware foder)
 
 
 
